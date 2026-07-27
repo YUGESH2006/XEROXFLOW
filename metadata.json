@@ -1,0 +1,6 @@
+{
+  "name": "XeroxFlow",
+  "description": "Campus printing and xerox service app with role-based auth, smart predictive pricing, loyalty points, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
